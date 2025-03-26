@@ -1,2 +1,1 @@
-# HealthCareAnalysis
-Different studies focused on digital health care 
+# Health Care Analysis
