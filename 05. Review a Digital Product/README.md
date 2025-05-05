@@ -1,7 +1,7 @@
-## Research a product from a diagnostic, pharmaceutical, or medical device company found online.
+### Research a product from a diagnostic, pharmaceutical, or medical device company found online.
 
 - **The Company**: Introduction of the company.
-- 
+
 - **The Product**: Brief overview of the product.
 
 - **Users**: Who uses or benefits from it?
